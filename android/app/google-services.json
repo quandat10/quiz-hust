@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842335855549",
+    "firebase_url": "https://bker-sos.firebaseio.com",
+    "project_id": "bker-sos",
+    "storage_bucket": "bker-sos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842335855549:android:b8facfccf8da45e45e68d4",
+        "android_client_info": {
+          "package_name": "com.itdeloy.bker_sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842335855549-hp41mku2hm02agtra8j371at1mjpqtlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itdeloy.bker_sos",
+            "certificate_hash": "aee023e30addf8399c3599bc241aba062135df38"
+          }
+        },
+        {
+          "client_id": "842335855549-afbeev7jrh8g89l15u9hfaqdiu7gu7r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDec7O7OxUBBpYfvo9pqRHwsgNiuPa_PAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842335855549-afbeev7jrh8g89l15u9hfaqdiu7gu7r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

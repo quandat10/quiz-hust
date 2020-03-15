@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>842335855549-hm7pfn9646o7u6h6e2gkibgpnc9qkrqv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.842335855549-hm7pfn9646o7u6h6e2gkibgpnc9qkrqv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>842335855549-hp41mku2hm02agtra8j371at1mjpqtlj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcCDLEQockxkO1melf_x68FNoJD4dgSKc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>842335855549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.itdeloy.bkerSos</string>
+	<key>PROJECT_ID</key>
+	<string>bker-sos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bker-sos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:842335855549:ios:eb26ac39fb70d7a75e68d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://bker-sos.firebaseio.com</string>
+</dict>
+</plist>
