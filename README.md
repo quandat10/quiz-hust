@@ -1,6 +1,5 @@
 # Hust Family
 
-
 ## Ứng dụng đơn giản, dễ sử dụng 
 <h1> Trang chủ : 
   <p><img src="https://i.imgur.com/sgWbgp3.png" width = "50%" height = "50%"/>
