@@ -1,6 +1,5 @@
 # Hust Family
 
-Ứng dụng
 
 ## Ứng dụng đơn giản, dễ sử dụng 
 <h1> Trang chủ : 
